@@ -1,6 +1,5 @@
 # ⌚ Rolex Yacht-Master II - Ultra-Premium Landing Page
-
-![Rolex Yacht-Master II Banner](https://images.unsplash.com/photo-1548171915-e76a44898958?q=80&w=2000&auto=format&fit=crop) <!-- Replace with your actual hero screenshot -->
+ <!-- Replace with your actual hero screenshot -->
 
 A hyper-premium, Awwwards-level cinematic scrollytelling landing page built for the Rolex Yacht-Master II. This project transforms a standard product page into an interactive, luxury editorial experience. As the user scrolls, a high-resolution 192-frame image sequence of the watch dissects and reassembles perfectly synced to smooth storytelling beats and 3D interactions.
 
@@ -19,9 +18,14 @@ A hyper-premium, Awwwards-level cinematic scrollytelling landing page built for 
 
 <img width="1920" height="921" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_37_40" src="https://github.com/user-attachments/assets/f508acc2-abe5-45b0-b1bc-0469f818c788" />
 
+<img width="1920" height="921" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_37_46" src="https://github.com/user-attachments/assets/254efce9-50b4-438b-b313-24c3ed6033cd" />
+
+<img width="1920" height="918" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_37_55" src="https://github.com/user-attachments/assets/1b4b46e6-8b98-44f3-97ef-6a244dd747ca" />
+
 
 <img width="1920" height="921" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_38_04" src="https://github.com/user-attachments/assets/9993768f-71c6-40bf-a58c-ac8c8941c1a6" />
 
+<img width="1920" height="918" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_38_11" src="https://github.com/user-attachments/assets/50eee159-18b3-4a77-abfc-d619db94a36d" />
 
 
 
@@ -54,8 +58,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/rolex-yacht-master-ii.git
-   cd rolex-yacht-master-ii
+   git clone https://github.com/kartikrana77/Rolex.git
+   cd Rolex
    ```
 
 2. **Install dependencies:**
