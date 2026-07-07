@@ -17,10 +17,11 @@ A hyper-premium, Awwwards-level cinematic scrollytelling landing page built for 
 
 ## 📸 Screenshots
 
-| Hero Sequence Reveal | Glassmorphism Bento Grid |
-| :---: | :---: |
-| ![Hero Reveal](./ws/Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_37_40.png) | ![Bento Grid](./ws/Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_38_04.png) |
-| *Watch tilting and rotating on scroll* | *3D elements and luxury typography* |
+<img width="1920" height="921" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_37_40" src="https://github.com/user-attachments/assets/f508acc2-abe5-45b0-b1bc-0469f818c788" />
+
+
+<img width="1920" height="921" alt="Rolex Yacht-Master II _ Master the moment and 2 more pages - Personal - Microsoft​ Edge 08-07-2026 00_38_04" src="https://github.com/user-attachments/assets/9993768f-71c6-40bf-a58c-ac8c8941c1a6" />
+
 
 
 
